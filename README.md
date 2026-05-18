@@ -5,9 +5,9 @@ This project presents an end-to-end data analytics and predictive modeling dashb
 DASHBOARD:
 ![IPL Dashboard](IPL%20Dashboard.png)
 
-![IPL Dashboard](IPL%20Dashboard1.png)
+![IPL Dashboard](IPL%20DASHBOARD2.png)
 
-![IPL Dashboard](IPL%20Dashboard2.png)
+![IPL Dashboard](IPL%20DASHBOARD3.png)
 
 ⚙️ Tools & Technologies Used
 Python (Pandas, NumPy for data cleaning and analysis)
